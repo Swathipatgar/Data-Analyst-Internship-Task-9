@@ -1,0 +1,101 @@
+Order ID,Order Date,Customer Name,Segment,Product Name,Category,Sub-Category,Region,Country,State,City,Sales,Quantity,Profit
+ORD-0001,2023-10-03,John Smith,Home Office,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,3506.71,2,319.15
+ORD-0002,2023-03-15,Carlos Diaz,Home Office,Notebook,Office Supplies,Paper,Europe,Germany,Berlin,Berlin,4980.68,8,193.49
+ORD-0003,2023-05-17,Carlos Diaz,Corporate,Office Chair,Furniture,Chairs,Asia,India,Karnataka,Bangalore,364.35,9,1339.78
+ORD-0004,2023-12-19,Alice Brown,Home Office,Notebook,Office Supplies,Paper,Europe,Germany,Berlin,Berlin,3046.79,7,100.58
+ORD-0005,2023-08-23,Alice Brown,Corporate,Printer,Technology,Machines,US,United States,California,San Francisco,1090.48,7,685.03
+ORD-0006,2023-11-28,John Smith,Home Office,Printer,Technology,Machines,US,United States,California,San Francisco,3047.79,9,363.52
+ORD-0007,2023-10-12,Anita Sharma,Corporate,Notebook,Office Supplies,Paper,Europe,Germany,Berlin,Berlin,2783.58,1,424.87
+ORD-0008,2023-01-15,Anita Sharma,Corporate,Printer,Technology,Machines,Europe,Germany,Berlin,Berlin,3818.07,3,1030.94
+ORD-0009,2023-05-30,John Smith,Corporate,Printer,Technology,Machines,Europe,Germany,Berlin,Berlin,558.68,8,1258.1
+ORD-0010,2023-06-21,John Smith,Corporate,Office Chair,Furniture,Chairs,US,United States,California,San Francisco,3090.32,3,7.29
+ORD-0011,2023-02-22,Ravi Kumar,Consumer,Pen Set,Office Supplies,Art,Asia,India,Karnataka,Bangalore,2085.18,4,549.72
+ORD-0012,2023-11-15,Anita Sharma,Corporate,Office Chair,Furniture,Chairs,Asia,India,Karnataka,Bangalore,2070.88,5,83.82
+ORD-0013,2023-05-07,Carlos Diaz,Corporate,Pen Set,Office Supplies,Art,US,United States,California,San Francisco,1645.52,8,322.93
+ORD-0014,2023-04-18,Anita Sharma,Corporate,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,493.33,10,1055.85
+ORD-0015,2023-09-25,Anita Sharma,Consumer,Laptop,Technology,Computers,US,United States,California,San Francisco,3422.19,4,1018.39
+ORD-0016,2023-08-03,Ravi Kumar,Home Office,Laptop,Technology,Computers,US,United States,California,San Francisco,1159.79,10,1428.84
+ORD-0017,2023-11-11,Ravi Kumar,Consumer,Laptop,Technology,Computers,Asia,India,Karnataka,Bangalore,1087.05,1,1342.23
+ORD-0018,2023-12-26,Carlos Diaz,Home Office,Office Chair,Furniture,Chairs,US,United States,California,San Francisco,4744.3,4,935.04
+ORD-0019,2023-08-14,Ravi Kumar,Corporate,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,3528.16,6,1252.0
+ORD-0020,2023-10-12,Carlos Diaz,Home Office,Printer,Technology,Machines,Asia,India,Karnataka,Bangalore,4239.97,6,484.33
+ORD-0021,2023-05-31,Ravi Kumar,Consumer,Laptop,Technology,Computers,Asia,India,Karnataka,Bangalore,3998.76,5,1242.6
+ORD-0022,2023-09-14,Alice Brown,Consumer,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,1228.25,4,1185.84
+ORD-0023,2023-05-06,Carlos Diaz,Home Office,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,3058.7,2,636.17
+ORD-0024,2023-11-06,Ravi Kumar,Corporate,Notebook,Office Supplies,Paper,Europe,Germany,Berlin,Berlin,4846.51,9,479.62
+ORD-0025,2023-12-11,Carlos Diaz,Corporate,Pen Set,Office Supplies,Art,Asia,India,Karnataka,Bangalore,507.13,5,654.92
+ORD-0026,2023-04-05,Ravi Kumar,Consumer,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,2703.34,7,-28.26
+ORD-0027,2023-10-15,Carlos Diaz,Home Office,Laptop,Technology,Computers,Europe,Germany,Berlin,Berlin,715.0,1,797.8
+ORD-0028,2023-12-25,Anita Sharma,Corporate,Office Chair,Furniture,Chairs,US,United States,California,San Francisco,230.28,2,571.22
+ORD-0029,2023-11-11,John Smith,Corporate,Notebook,Office Supplies,Paper,Asia,India,Karnataka,Bangalore,2734.14,3,674.87
+ORD-0030,2023-07-10,John Smith,Home Office,Laptop,Technology,Computers,Asia,India,Karnataka,Bangalore,1428.24,3,1441.36
+ORD-0031,2023-12-21,Ravi Kumar,Consumer,Notebook,Office Supplies,Paper,Europe,Germany,Berlin,Berlin,3304.71,2,704.75
+ORD-0032,2023-01-29,Alice Brown,Corporate,Laptop,Technology,Computers,US,United States,California,San Francisco,4007.96,2,967.17
+ORD-0033,2023-11-03,Ravi Kumar,Consumer,Printer,Technology,Machines,Europe,Germany,Berlin,Berlin,1016.98,9,918.18
+ORD-0034,2023-08-17,Carlos Diaz,Corporate,Printer,Technology,Machines,Europe,Germany,Berlin,Berlin,2245.68,9,794.12
+ORD-0035,2023-10-19,Ravi Kumar,Consumer,Laptop,Technology,Computers,US,United States,California,San Francisco,2758.57,8,821.61
+ORD-0036,2023-07-22,Ravi Kumar,Corporate,Pen Set,Office Supplies,Art,US,United States,California,San Francisco,2816.9,1,401.67
+ORD-0037,2023-07-16,Anita Sharma,Home Office,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,2868.58,7,462.42
+ORD-0038,2023-02-20,Anita Sharma,Home Office,Notebook,Office Supplies,Paper,Asia,India,Karnataka,Bangalore,902.25,10,273.23
+ORD-0039,2023-12-07,Carlos Diaz,Corporate,Pen Set,Office Supplies,Art,US,United States,California,San Francisco,4828.94,3,204.04
+ORD-0040,2023-10-02,John Smith,Consumer,Laptop,Technology,Computers,US,United States,California,San Francisco,1492.54,10,1181.26
+ORD-0041,2023-10-16,Ravi Kumar,Corporate,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,4799.64,5,1377.84
+ORD-0042,2023-03-14,Anita Sharma,Corporate,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,4253.38,7,163.99
+ORD-0043,2023-07-15,John Smith,Corporate,Office Chair,Furniture,Chairs,US,United States,California,San Francisco,4135.46,9,1236.85
+ORD-0044,2023-07-18,John Smith,Consumer,Pen Set,Office Supplies,Art,US,United States,California,San Francisco,1810.69,8,567.91
+ORD-0045,2023-03-30,Carlos Diaz,Home Office,Pen Set,Office Supplies,Art,Europe,Germany,Berlin,Berlin,2987.36,2,245.74
+ORD-0046,2023-05-10,Anita Sharma,Corporate,Printer,Technology,Machines,US,United States,California,San Francisco,2207.51,9,240.53
+ORD-0047,2023-02-04,Anita Sharma,Consumer,Notebook,Office Supplies,Paper,Europe,Germany,Berlin,Berlin,468.76,8,1077.51
+ORD-0048,2023-04-29,Carlos Diaz,Consumer,Notebook,Office Supplies,Paper,Asia,India,Karnataka,Bangalore,3249.45,10,409.17
+ORD-0049,2023-08-01,Alice Brown,Corporate,Printer,Technology,Machines,Asia,India,Karnataka,Bangalore,4034.76,5,701.14
+ORD-0050,2023-08-05,Alice Brown,Home Office,Laptop,Technology,Computers,Asia,India,Karnataka,Bangalore,1619.36,9,1064.2
+ORD-0051,2023-06-07,Alice Brown,Consumer,Notebook,Office Supplies,Paper,Europe,Germany,Berlin,Berlin,1353.62,4,-161.13
+ORD-0052,2023-02-18,Carlos Diaz,Corporate,Office Chair,Furniture,Chairs,US,United States,California,San Francisco,416.56,3,-2.46
+ORD-0053,2023-03-28,Anita Sharma,Home Office,Office Chair,Furniture,Chairs,Asia,India,Karnataka,Bangalore,2013.56,6,1005.94
+ORD-0054,2023-03-01,Anita Sharma,Home Office,Pen Set,Office Supplies,Art,US,United States,California,San Francisco,1038.45,4,464.08
+ORD-0055,2023-08-14,Anita Sharma,Home Office,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,1818.39,1,-115.6
+ORD-0056,2023-07-19,Ravi Kumar,Consumer,Pen Set,Office Supplies,Art,US,United States,California,San Francisco,4235.24,8,141.14
+ORD-0057,2023-02-23,Ravi Kumar,Home Office,Office Chair,Furniture,Chairs,US,United States,California,San Francisco,2055.56,4,1079.35
+ORD-0058,2023-07-25,Anita Sharma,Home Office,Office Chair,Furniture,Chairs,Asia,India,Karnataka,Bangalore,4042.49,4,1286.01
+ORD-0059,2023-03-05,Alice Brown,Corporate,Laptop,Technology,Computers,Europe,Germany,Berlin,Berlin,2187.93,8,276.1
+ORD-0060,2023-12-04,Anita Sharma,Consumer,Office Chair,Furniture,Chairs,Asia,India,Karnataka,Bangalore,2365.03,5,4.22
+ORD-0061,2023-09-26,Anita Sharma,Consumer,Printer,Technology,Machines,Asia,India,Karnataka,Bangalore,2974.04,8,836.25
+ORD-0062,2023-06-16,John Smith,Consumer,Pen Set,Office Supplies,Art,Asia,India,Karnataka,Bangalore,2162.18,5,-123.03
+ORD-0063,2023-11-22,John Smith,Corporate,Laptop,Technology,Computers,Asia,India,Karnataka,Bangalore,2614.92,3,1065.03
+ORD-0064,2023-07-08,John Smith,Consumer,Pen Set,Office Supplies,Art,Europe,Germany,Berlin,Berlin,2319.77,4,1017.09
+ORD-0065,2023-11-28,Ravi Kumar,Corporate,Laptop,Technology,Computers,Europe,Germany,Berlin,Berlin,2322.92,4,274.52
+ORD-0066,2023-11-23,Alice Brown,Home Office,Printer,Technology,Machines,US,United States,California,San Francisco,3911.35,1,1377.97
+ORD-0067,2023-08-09,Anita Sharma,Home Office,Laptop,Technology,Computers,US,United States,California,San Francisco,1118.47,10,284.65
+ORD-0068,2023-02-18,Alice Brown,Consumer,Printer,Technology,Machines,Asia,India,Karnataka,Bangalore,205.19,3,-28.29
+ORD-0069,2023-04-04,John Smith,Corporate,Laptop,Technology,Computers,Europe,Germany,Berlin,Berlin,3473.08,3,801.16
+ORD-0070,2023-08-13,John Smith,Corporate,Notebook,Office Supplies,Paper,Europe,Germany,Berlin,Berlin,3714.77,8,750.57
+ORD-0071,2023-10-09,John Smith,Corporate,Laptop,Technology,Computers,Asia,India,Karnataka,Bangalore,1440.83,3,-24.46
+ORD-0072,2023-05-07,Carlos Diaz,Consumer,Pen Set,Office Supplies,Art,US,United States,California,San Francisco,1030.91,1,752.31
+ORD-0073,2023-11-30,Anita Sharma,Corporate,Printer,Technology,Machines,Asia,India,Karnataka,Bangalore,915.93,1,263.0
+ORD-0074,2023-01-13,John Smith,Home Office,Laptop,Technology,Computers,US,United States,California,San Francisco,4645.97,10,1320.84
+ORD-0075,2023-09-30,Anita Sharma,Consumer,Laptop,Technology,Computers,US,United States,California,San Francisco,2271.02,8,1038.3
+ORD-0076,2023-12-10,Ravi Kumar,Consumer,Printer,Technology,Machines,Asia,India,Karnataka,Bangalore,2077.32,1,1475.73
+ORD-0077,2023-08-03,John Smith,Home Office,Notebook,Office Supplies,Paper,Europe,Germany,Berlin,Berlin,1821.82,9,1401.45
+ORD-0078,2023-07-30,John Smith,Consumer,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,4278.72,1,531.94
+ORD-0079,2023-09-15,Carlos Diaz,Consumer,Laptop,Technology,Computers,Asia,India,Karnataka,Bangalore,1303.81,10,22.79
+ORD-0080,2023-10-18,Alice Brown,Consumer,Printer,Technology,Machines,Europe,Germany,Berlin,Berlin,4745.1,4,191.55
+ORD-0081,2023-02-05,John Smith,Home Office,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,1231.07,7,1469.69
+ORD-0082,2023-02-26,John Smith,Home Office,Pen Set,Office Supplies,Art,Asia,India,Karnataka,Bangalore,4252.65,6,883.18
+ORD-0083,2023-02-24,Ravi Kumar,Corporate,Printer,Technology,Machines,Asia,India,Karnataka,Bangalore,4657.65,10,1064.14
+ORD-0084,2023-02-26,Alice Brown,Consumer,Pen Set,Office Supplies,Art,Europe,Germany,Berlin,Berlin,3232.78,10,901.14
+ORD-0085,2023-01-28,John Smith,Corporate,Printer,Technology,Machines,Asia,India,Karnataka,Bangalore,847.78,8,220.95
+ORD-0086,2023-07-23,Anita Sharma,Corporate,Notebook,Office Supplies,Paper,Asia,India,Karnataka,Bangalore,663.52,6,267.09
+ORD-0087,2023-10-08,Ravi Kumar,Consumer,Laptop,Technology,Computers,Asia,India,Karnataka,Bangalore,2618.81,2,945.03
+ORD-0088,2023-12-08,Alice Brown,Consumer,Notebook,Office Supplies,Paper,Asia,India,Karnataka,Bangalore,4255.75,3,130.38
+ORD-0089,2023-11-19,John Smith,Corporate,Office Chair,Furniture,Chairs,Europe,Germany,Berlin,Berlin,3053.48,9,376.06
+ORD-0090,2023-02-07,Alice Brown,Consumer,Office Chair,Furniture,Chairs,US,United States,California,San Francisco,584.19,2,87.48
+ORD-0091,2023-03-14,Alice Brown,Consumer,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,2211.68,3,295.86
+ORD-0092,2023-06-19,Ravi Kumar,Corporate,Pen Set,Office Supplies,Art,Europe,Germany,Berlin,Berlin,1461.68,6,661.48
+ORD-0093,2023-04-05,Alice Brown,Corporate,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,1650.8,10,103.63
+ORD-0094,2023-02-24,Carlos Diaz,Home Office,Printer,Technology,Machines,Asia,India,Karnataka,Bangalore,439.53,8,1045.27
+ORD-0095,2023-11-14,Ravi Kumar,Consumer,Laptop,Technology,Computers,Asia,India,Karnataka,Bangalore,396.8,3,556.61
+ORD-0096,2023-04-02,Anita Sharma,Consumer,Office Chair,Furniture,Chairs,Asia,India,Karnataka,Bangalore,1447.82,2,1046.52
+ORD-0097,2023-05-01,Ravi Kumar,Corporate,Printer,Technology,Machines,Asia,India,Karnataka,Bangalore,3575.24,6,1445.18
+ORD-0098,2023-03-05,Alice Brown,Home Office,Notebook,Office Supplies,Paper,US,United States,California,San Francisco,202.12,6,1103.83
+ORD-0099,2023-08-13,John Smith,Consumer,Notebook,Office Supplies,Paper,Europe,Germany,Berlin,Berlin,1516.76,9,1070.54
+ORD-0100,2023-01-13,Carlos Diaz,Corporate,Pen Set,Office Supplies,Art,US,United States,California,San Francisco,3795.98,1,469.22
